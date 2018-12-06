@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/Sample-Test1/Sample-Test1/Debug
+/Sample-Test1/packages
+/Sample-Test1/Debug
+/Sample-Test1/.vs/Sample-Test1/v15
